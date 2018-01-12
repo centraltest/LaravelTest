@@ -1,0 +1,6 @@
+2018/01/11 17:20:46 [error] 12377#12377: *1 directory index of "/var/www/laravel/" is forbidden, client: 127.0.0.1, server: laravel.test, request: "HEAD / HTTP/1.1", host: "laravel.test"
+2018/01/11 17:20:51 [error] 12377#12377: *1 directory index of "/var/www/laravel/" is forbidden, client: 127.0.0.1, server: laravel.test, request: "HEAD / HTTP/1.1", host: "laravel.test"
+2018/01/11 17:24:12 [error] 12550#12550: *1 directory index of "/var/www/laravel/" is forbidden, client: 127.0.0.1, server: laravel.localhost, request: "HEAD / HTTP/1.1", host: "laravel.localhost"
+2018/01/11 17:24:26 [error] 12550#12550: *2 directory index of "/var/www/laravel/" is forbidden, client: 127.0.0.1, server: laravel.localhost, request: "GET / HTTP/1.1", host: "laravel.localhost"
+2018/01/11 17:24:26 [error] 12550#12550: *2 open() "/var/www/laravel/favicon.ico" failed (2: No such file or directory), client: 127.0.0.1, server: laravel.localhost, request: "GET /favicon.ico HTTP/1.1", host: "laravel.localhost", referrer: "http://laravel.localhost/"
+2018/01/11 17:24:32 [error] 12550#12550: *2 directory index of "/var/www/laravel/" is forbidden, client: 127.0.0.1, server: laravel.localhost, request: "GET / HTTP/1.1", host: "laravel.localhost"
